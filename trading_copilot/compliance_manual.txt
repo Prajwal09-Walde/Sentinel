@@ -1,0 +1,13 @@
+Securities Compliance Manual
+
+SECTION 1: SHORT SELLING AND LOCATE RULE
+Short selling compliance requires borrowing the security before executing the short sale. This is known as the Locate Rule. Broker-dealers are prohibited from accepting a short sale order in an equity security from another person unless they have borrowed the security, or entered into a bona-fide arrangement to borrow the security. Naked short selling is strictly prohibited.
+
+SECTION 2: MARKET MANIPULATION AND WASH SALES
+Wash sales involve entering matching buy and sell orders to create artificial activity, which is strictly prohibited under Rule 10b-5 of the Securities Exchange Act. A wash sale occurs when an investor buys and sells the same financial instrument at or about the same time to create a misleading appearance of active trading.
+
+SECTION 3: FRONTRUNNING
+Frontrunning is the illegal practice of entering a trade on a security based on prior, non-public knowledge of a large pending transaction in the same security by another customer.
+
+SECTION 4: INSIDER TRADING
+Insider trading involves buying or selling a public security while in possession of material, non-public information (MNPI) about the security, in breach of a fiduciary duty or other relationship of trust.

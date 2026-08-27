@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "eval-harness"
+version = "0.1.0"
+description = "A standalone RAG evaluation harness package"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "deepeval",
+    "ragas",
+    "pytest",
+    "langfuse",
+    "pydantic>=2.0.0",
+    "python-dotenv",
+    "fastapi",
+    "httpx",
+    "uvicorn",
+    "pymongo"
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
+addopts = "-v"

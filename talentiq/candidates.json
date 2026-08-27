@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Alice Smith",
+    "skills": ["Python", "FastAPI", "React", "MongoDB", "Docker"],
+    "experience": "5 years as a Senior Software Engineer. Built multiple high-performance web applications and API microservices.",
+    "education": "BS in Computer Science from MIT"
+  },
+  {
+    "name": "Bob Johnson",
+    "skills": ["JavaScript", "Node.js", "Express", "PostgreSQL", "AWS"],
+    "experience": "3 years as a Backend Engineer. Focused on cloud infrastructure, serverless functions, and database design.",
+    "education": "MS in Software Engineering from Stanford"
+  },
+  {
+    "name": "Charlie Brown",
+    "skills": ["Java", "Spring Boot", "Kubernetes", "MySQL", "Azure"],
+    "experience": "7 years as a Java Enterprise Architect. Designed and maintained distributed microservices systems.",
+    "education": "BS in Information Systems from Berkeley"
+  },
+  {
+    "name": "Diana Prince",
+    "skills": ["Python", "PyTorch", "TensorFlow", "scikit-learn", "SQL"],
+    "experience": "4 years as a Machine Learning Engineer. Developed predictive models, NLP pipelines, and computer vision tools.",
+    "education": "Ph.D. in Data Science from Carnegie Mellon"
+  }
+]

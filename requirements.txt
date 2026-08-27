@@ -1,0 +1,15 @@
+# Core evaluation dependencies
+deepeval
+ragas
+pytest
+langfuse
+pydantic>=2.0.0
+python-dotenv
+
+# FastAPI integration & server dependencies
+fastapi
+httpx
+uvicorn
+pymongo
+openai
+

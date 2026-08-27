@@ -1,0 +1,10 @@
+deepeval
+ragas
+pytest
+langfuse
+pydantic>=2.0.0
+python-dotenv
+fastapi
+httpx
+uvicorn
+pymongo
